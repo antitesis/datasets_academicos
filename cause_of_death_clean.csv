@@ -1,0 +1,12 @@
+Location;Age;Sex;CauseOfDeath;AnnualChange2010_2017;TotalDeaths2017;Death_1M;Death_100K;Change_1M;Change_100K;%TotalDeaths2017;%AnnualChange2010_2017
+Global;All ages;Both;Ischemic heart disease;0.003884185;0.159626659;1220.44;12204.44;29.7;296.97;15.962665900000001;0.3884185
+Global;All ages;Both;Stroke;-0.006986486;0.110237083;842.83;8428.31;-53.42;-534.16;11.0237083;-0.6986486000000001
+Global;All ages;Both;Chronic obstructive pulmonary disease;-0.00654463;0.057159165;437.02;4370.17;-50.04;-500.38;5.7159165;-0.654463
+Global;All ages;Both;Lower respiratory infections;-0.021149644;0.045733648;349.66;3496.62;-161.7;-1617.02;4.5733648;-2.1149644
+Global;All ages;Both;Alzheimer's disease and other dementias;0.024707331;0.044947927;343.65;3436.55;188.9;1889.03;4.4947927;2.4707331
+Global;All ages;Both;Tracheal, bronchus, and lung cancer;0.009495951;0.033658852;257.34;2573.43;72.6;726.02;3.3658852;0.9495951
+Global;All ages;Both;Neonatal disorders;-0.033578981;0.031883669;243.77;2437.7;-256.73;-2567.32;3.1883669;-3.3578981
+Global;All ages;Both;Diarrheal diseases;-0.019358474;0.02805331;214.48;2144.85;-148.01;-1480.07;2.8053310000000002;-1.9358474
+Global;All ages;Both;Diabetes mellitus;0.00902093;0.024485445;187.21;1872.06;68.97;689.71;2.4485445;0.902093
+Global;All ages;Both;Cirrhosis and other chronic liver diseases;-0.001088756;0.023645461;180.78;1807.84;-8.32;-83.24;2.3645461;-0.1088756
+Global;All ages;Both;Others;0.0;0.44056829769929;3368.42;33684.17;0.0;0.0;44.056829769929;0.0
